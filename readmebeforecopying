@@ -1,0 +1,8 @@
+You will need to install nodejs first if you have done, you can skip the first step.
+link - https://gplinks.co/T9x9Ua
+After you have installed, open visual studio code or download it here
+link - https://gplinks.co/e0iN6Gt
+then you have to open a new terminal and then download some modules
+#1 - npm install -g peer
+#2 - npm install socket.io
+then you can copy the codes
